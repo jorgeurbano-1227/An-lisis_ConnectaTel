@@ -1,7 +1,7 @@
 # An-lisis_ConnectaTel
 # Análisis de una empresa de telecomunicaciones (ConnectaTel)
 
-## 📌 Objetivo del proyecto
+Objetivo del proyecto
 Evaluar el comportamiento de los clientes de la empresa de telecomunicaciones ConnectaTel en Latinoamérica (con información registrada hasta el año 2024), con el fin de construir un perfil estadístico, detectar comportamientos atípicos, identificar patrones de consumo, diseñar estrategias de retención y sugerir mejoras en los planes ofrecidos.
 
 Datasets utilizados
@@ -20,7 +20,7 @@ Etapas del análisis realizadas
 7. **Insight ejecutivo:** Cuantificación de problemas de negocio y conclusiones finales sobre el rendimiento de los planes.
 8. **Publicación:** Versionado y entrega del proyecto en un repositorio público de GitHub.
 
-## 🚀 Cómo ejecutar el notebook
+Cómo ejecutar el notebook
 Puedes abrir y ejecutar este proyecto de forma interactiva utilizando Google Colab:
 1. Haz clic en el botón de Google Colab (o sube el archivo `.ipynb` a tu entorno de Colab).
 2. Asegúrate de contar con la estructura de carpetas y datasets requerida en el directorio `/datasets/` o actualiza las rutas de lectura según corresponda en la primera celda.
